@@ -1,0 +1,1 @@
+Die .jar Datei muss immer in einem Ordner mit dem src Ordner sein!!!

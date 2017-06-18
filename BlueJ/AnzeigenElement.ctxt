@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AnzeigenElement
+comment1.params=_player\ _status
+comment1.target=AnzeigenElement(int,\ int)
+numComments=2

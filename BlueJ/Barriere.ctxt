@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Barriere
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Barriere.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Barriere(int,\ int,\ int,\ int)
+numComments=2

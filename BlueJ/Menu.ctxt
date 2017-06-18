@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\ Beschreiben\ Sie\ hier\ die\ Klasse\ Menu.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ starteSpiel()
+comment3.params=hover
+comment3.target=void\ updateBtn(boolean)
+comment4.params=
+comment4.target=void\ playMusic()
+comment5.params=c
+comment5.target=void\ tasteReagieren(int)
+comment6.params=v
+comment6.target=void\ mausBewegt(ea.Vektor)
+comment7.params=p
+comment7.target=void\ klickReagieren(ea.Punkt)
+comment8.params=
+comment8.target=void\ openMenu()
+numComments=9

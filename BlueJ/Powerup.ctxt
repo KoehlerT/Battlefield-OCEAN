@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Powerup
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Powerup.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=typ\ sp
+comment1.target=Powerup(int,\ Spieler)
+comment2.params=
+comment2.target=void\ decCooldown()
+comment3.params=
+comment3.target=int\ getSchussV()
+comment4.params=
+comment4.target=int\ getGeschV()
+comment5.params=
+comment5.target=int\ getLiveB()
+comment6.params=
+comment6.target=boolean\ getSchieldA()
+numComments=7
