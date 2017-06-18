@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Anzeige
+comment1.params=n
+comment1.target=Anzeige(int)
+comment2.params=ind
+comment2.target=void\ setzeSichtbar(int)
+comment3.params=leben
+comment3.target=void\ lebenSetzen(int)
+comment4.params=infos
+comment4.target=void\ setzeInfo(int[])
+numComments=5
