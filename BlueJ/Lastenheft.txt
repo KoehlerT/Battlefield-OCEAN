@@ -1,0 +1,5 @@
+Ich möchte ein Spiel, an dem sich 2 Spieler an 1er Tastatur gegenseitig bekämpfen.
+Die Spieler sollen Fische Steuern, die sich Drehen und Gereadeaus bewegen können.
+Es soll kreative Powerups geben, die die Spieler verstärken.
+Es soll Hintergrundmusik geben und tolle Sound-Effekte.
+Die Szene soll der Ozean sein.
