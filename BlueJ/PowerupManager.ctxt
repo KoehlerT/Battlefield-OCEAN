@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PowerupManager
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ PowerupManager.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=PowerupManager()
+comment2.params=
+comment2.target=void\ updatePowerups()
+comment3.params=p
+comment3.target=void\ addPowerup(Powerup)
+comment4.params=p
+comment4.target=void\ remPowerup(Powerup)
+numComments=5

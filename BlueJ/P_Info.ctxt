@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=P_Info
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ P_Info.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=links
+comment1.target=P_Info(boolean)
+comment2.params=l
+comment2.target=java.lang.String\ getTextForLine(int)
+comment3.params=info
+comment3.target=void\ updateText(int[])
+numComments=4

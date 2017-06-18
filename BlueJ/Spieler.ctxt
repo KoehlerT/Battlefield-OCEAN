@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Spieler.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=x\ y\ n
+comment1.target=Spieler(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ updateAnz()
+comment3.params=
+comment3.target=void\ schie\u00DFen()
+comment4.params=g
+comment4.target=boolean\ getroffen(Geschoss)
+comment5.params=
+comment5.target=void\ abprallen()
+comment6.params=p
+comment6.target=void\ addPowerup(Powerup)
+comment6.text=\r\n\ \ \ \ \ \ \ Beim\ Hinzuf\u00FCgen\ eines\ Powerups\ werden\ die\ Werte\ verbessert.\r\n\ \ \ \ \ \ \ Beim\ Entfernen\ eines\ Powerups\ werden\ die\ Verbesserungen\ wirder\ r\u00FCckg\u00E4ngig\ gemacht\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ Der\ Quelltext\ ist\ etwas\ seltsam,\ jedoch\ finde\ ich\ keine\ Elegantere\ m\u00F6glichkeit\r\n
+comment7.params=p
+comment7.target=void\ entfernePowerup(Powerup)
+comment8.params=
+comment8.target=int\ getNum()
+numComments=9
